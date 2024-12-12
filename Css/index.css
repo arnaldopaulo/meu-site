@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+.corpo{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 1000px;
+    padding: 40px;
+    background-color: rgb(62, 119, 185);
+}
+
+img{
+    width: 180PX;
+    height: 180px;
+    border-radius: 100%;
+    border: solid 4px white;
+}
+
+
+.formulario{
+    padding: 20px 0px;
+}
+label{
+    color: white;
+}
+
+h1,h3{
+    color: white;
+}
+table{
+    border-collapse: solid 1.5px black;
+}
+thead{
+    color: white;
+    background-color: black;
+}
+tr{
+    height: 20px;
+    width: 20px;
+}
+.pinta{
+    background: rgb(133, 175, 252);
+}
+.pinta2{
+    background: white;
+}
+td{
+    padding: 5px;
+}
+
+    
